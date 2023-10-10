@@ -38,4 +38,5 @@ Aguardando decisao, quando um player ganhar o placar de estrelas aumenta +1 , ch
 placar para quem completar 3 estrelas
 
 ##  Mudanças:  ##
+[Em analise ..]
 
